@@ -4,7 +4,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 # AI Content Recommendation System
 
-Final project for the Building AI course
+Website content based solely on user preferences
 
 ## Summary
 
