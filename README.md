@@ -24,17 +24,8 @@ Data can come from various APIs and we would be supplying some ourselves.
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+This project does not solve the challenge of users entering false information in the chat and in the end getting wrong content displayed on the website
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-
-
-## Acknowledgments
-
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+There will be need for continous research, quality education and funding to see this a reality
